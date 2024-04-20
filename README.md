@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PremLande
-- 👀 I’m interested in Clouds ,Linux 
-- 🌱 I’m currently learning Engineering 
--
+- 👀 I’m working knowledge  in Clouds ,Linux ,Full  Stack Developement.
 - 📫 How to reach me premlande2001@gmail.com
 
 <!---
