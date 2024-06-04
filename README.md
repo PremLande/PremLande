@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PremLande
-- 👀 I’m working knowledge  in Clouds ,Linux ,Full  Stack Developement.
+- 👀 I’m working as a Developer , I'm technologically lean toward  Clouds ,Linux ,Full  Stack Developement.
 - 📫 How to reach me premlande2001@gmail.com
 
 <!---
